@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/lisandrob/lisandrob/master/README.md",
+  "title": "Portfolio // Lisandro Brasolin",
+  "name": "Lisandro Brasolin",
+  "ascii": "0x01101",
+  "social": {
+    "github": "LisandroB",
+    "linkedin": "lbrasolin"
+  },
+  "email": "lisandrobrasolin@gmail.com",
+  "ps1_hostname": "box",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "resume_url": "https://lisandrob.github.io/files/CV%20Lisandro%20Brasolin.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "colors": {
+    "light": {
+      "background": "#3bd11d",
+      "foreground": "#3bd11d",
+      "yellow": "#3bd11d",
+      "green": "#3bd11d",
+      "gray": "#3bd11d",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#000000",
+      "foreground": "#E5E9F0",
+      "yellow": "#5ce1e6",
+      "green": "#53adb0",
+      "gray": "#E5E9F0",
+      "blue": "#EBCB8B",
+      "red": "#E5E9F0"
+    }
+  }
+}
